@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [River](https://river911009.github.io "Riviere"), I'm a deputy manager of system application team, I usually develop image processing algorithm in SW and FW. Mostly, Our team survey and evaluate early special application to a electronic system.
-- 👀 I’m interested now in RISC-V, Analog Computing and a cup of espresso.
+- 👀 I’m interested now in Optical Neural Network, Analog Computing.
 - 🌱 I’m currently learning ML and CV for my job and on the other hand learning React.js for my side projects.
 - 💞️ I’m looking to collaborate on camera or sensor array system development, ML/CV/Algorithms for image/video processing.
 - 📫 How to reach me. my email is [here](mailto:river801009@gmail.com).
